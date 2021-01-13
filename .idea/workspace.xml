@@ -6,8 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a9bd65c-0336-420c-8fd9-d25ad7dd9c99" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/packageb/ClassB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/packageb/ClassB.java" afterDir="false" />
+    <list default="true" id="4a9bd65c-0336-420c-8fd9-d25ad7dd9c99" name="Default Changelist" comment="comments">
+      <change beforePath="$PROJECT_DIR$/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +105,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -114,10 +115,11 @@
       <recent name="C:\Users\m_hus\IdeaProjects\Introduction\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ClassB">
+  <component name="RunManager" selected="Application.Animal">
     <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Animal" />
       <module name="Introduction" />
+      <option name="PROGRAM_PARAMETERS" value="para1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -170,11 +172,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Animal" />
         <item itemvalue="Application.ClassB" />
         <item itemvalue="Application.ImportExample" />
         <item itemvalue="Application.Zoo" />
         <item itemvalue="JAR Application.Introduction.jar" />
-        <item itemvalue="Application.Animal" />
       </list>
     </recent_temporary>
   </component>
@@ -188,8 +190,16 @@
       <updated>1610521631961</updated>
       <workItem from="1610525357252" duration="207000" />
       <workItem from="1610525572150" duration="462000" />
-      <workItem from="1610526717238" duration="101000" />
+      <workItem from="1610526717238" duration="373000" />
     </task>
+    <task id="LOCAL-00001" summary="comments">
+      <created>1610526837169</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610526837169</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,5 +215,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="comments" />
   </component>
 </project>
