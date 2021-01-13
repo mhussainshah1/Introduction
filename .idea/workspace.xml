@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a9bd65c-0336-420c-8fd9-d25ad7dd9c99" name="Default Changelist" comment="" />
+    <list default="true" id="4a9bd65c-0336-420c-8fd9-d25ad7dd9c99" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/packageb/ClassB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/packageb/ClassB.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -186,10 +188,22 @@
       <updated>1610521631961</updated>
       <workItem from="1610525357252" duration="207000" />
       <workItem from="1610525572150" duration="462000" />
+      <workItem from="1610526717238" duration="101000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
